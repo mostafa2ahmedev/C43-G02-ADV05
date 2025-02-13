@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Demo
 {
     #region Part 01: 
-    internal class Book
+    public class Book
     {
 
         public string ISBN { get; set; }
